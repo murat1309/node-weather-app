@@ -76,6 +76,19 @@ webstorm terminalden devam edebiliriz.
  4.1) git status ile gördüm değişikliklerimi
  4.2) git add . ile staging area yaptım.
  3.3) git commit -m "Setup for Heroku"
+ 3.4) git push
+ 
+5.) git remote yaparsak şimdi hem origin hemde heroku konsolda grmüş olucaz. Yani artık origine pushladığımız gibi heroku'yada pushlayabiliriz.
+6.) git push heroku master (dependency'leri kurmaya ve uygulamayı ayağa kaldırmaya başladı bile. Ve bize bir url verdi.
+
+        Bu az önce bize verdiği 2 url ile yanı olan url'ler. Artık o url'i açtığımızda uygulamamız çalışır halde karşımıza çıkacaktır.)
+ 
+ -----------------------------------UYGULAMAYA YENI GUNCELLEME ÇIKALIM----------------------
+ 1.) değişiklikleri yaptın.
+ 2.) git status ile kontrol ettin.
+ 3.) git add .
+ 4.) 
+ 
  
                                                      
                                                     
